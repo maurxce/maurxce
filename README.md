@@ -14,11 +14,10 @@ My name is Maurice and I'm a 18 year old developer from Germany 🇩🇪.
     <img id="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML">
 </div>
 
+<!--
 <div id="tools">
-    <img id="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express.js">
-    <img id="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js">
-    <img id="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM">
 </div>
+-->
 
 <div id="libraries">
     <img id="djs" src="https://img.shields.io/badge/Discord.js-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" title="Discord.js">
@@ -28,6 +27,9 @@ My name is Maurice and I'm a 18 year old developer from Germany 🇩🇪.
 <p style="margin-bottom: 0px !important;">
     <img id="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" title="MariaDB">
     <img id="nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" title="Nginx">
+    <img id="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express.js">
+    <img id="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js">
+    <img id="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM">
 </p>
 
 <h2>Contact me</h2>
