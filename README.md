@@ -10,7 +10,7 @@ My name is Maurice and I'm a 18 year old developer from Germany 🇩🇪.
 
 <div id="languages">
     <img id="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript">
-    <img id="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" title="C">
+    <!--<img id="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" title="C">-->
     <img id="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML">
 </div>
 
@@ -21,16 +21,15 @@ My name is Maurice and I'm a 18 year old developer from Germany 🇩🇪.
 
 <div id="libraries">
     <img id="djs" src="https://img.shields.io/badge/Discord.js-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" title="Discord.js">
+    <img id="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express.js">
+    <img id="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js">
 </div>
 
-<h2>📝 Currently Learning</h2>
+<!--<h2>📝 Currently Learning</h2>
 <p style="margin-bottom: 0px !important;">
     <img id="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" title="MariaDB">
     <img id="nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" title="Nginx">
-    <img id="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express.js">
-    <img id="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js">
-    <img id="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM">
-</p>
+</p>-->
 
 <h2>Contact me</h2>
 <a href="https://discordapp.com/users/398509167351955456/"><img id="dc" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
