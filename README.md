@@ -6,7 +6,7 @@ My name is Maurice and I'm a 19 year old developer from Germany 🇩🇪.
 
 [![Editors](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
 
-[![Languages](https://skillicons.dev/icons?i=nodejs,java,c,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=nodejs,java,html,css)](https://skillicons.dev)
 
 ## 📲 Contact me
 
