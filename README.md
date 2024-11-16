@@ -2,14 +2,13 @@
 
 My name is Maurice and I'm a 20 year old developer from Germany 🇩🇪.
 
-## ⚡ Primarily Using
+## ⚡ Currently Using
 
-[![Editors](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
-[![Languages](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![Tools](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)  
-[![Operating Systems](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
+![Java](https://go-skill-icons.vercel.app/api/icons?i=idea,java,spring,mysql)  
+![Web](https://go-skill-icons.vercel.app/api/icons?i=vscode,typescript,astro,react,mongodb)  
+![Powered By](https://go-skill-icons.vercel.app/api/icons?i=proxmox,ubuntu,windows,docker)  
 
 ## 📲 Contact me
 
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/398509167351955456/)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:contact@schorn.md)
+[![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discordapp.com/users/398509167351955456/)
+[![Email](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:maurice@schorn.md)
