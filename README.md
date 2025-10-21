@@ -6,8 +6,10 @@ My name is Maurice and I'm a 21 year old developer from Germany 🇩🇪.
 
 **☕ Java**  
 ![Java](https://go-skill-icons.vercel.app/api/icons?i=idea,java,spring,mysql)  
+
 **🌐 Web**  
 ![Web](https://go-skill-icons.vercel.app/api/icons?i=vscode,typescript,astro,react,mongodb)  
+
 **🛠️ Tools**  
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=proxmox,ubuntu,windows,docker)  
 
