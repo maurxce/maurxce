@@ -5,15 +5,15 @@ My name is Maurice and I'm a 21 year old developer from Germany 🇩🇪.
 ## ⚡ Currently Using
 
 **☕ Java**  
-![Java](https://go-skill-icons.vercel.app/api/icons?i=idea,java,spring,mysql)  
+![IDEA, Java, Spring, MYSQL](./images/java.svg)  
 
 **🌐 Web**  
-![Web](https://go-skill-icons.vercel.app/api/icons?i=vscode,typescript,astro,react,mongodb)  
+![VS Code, TypeScript, Astro, React, MongoDB](./images/web.svg)  
 
 **🛠️ Tools**  
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=proxmox,ubuntu,windows,docker)  
+![Proxmox, Ubuntu, Windows, Docker](./images/tools.svg)  
 
 ## 📲 Contact me
 
-[![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discordapp.com/users/398509167351955456/)
-[![Email](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:maurice@schorn.md)
+[![Discord](./images/discord.svg)](https://discordapp.com/users/398509167351955456/)
+[![Email](./images/gmail.svg)](mailto:maurice@schorn.md)
