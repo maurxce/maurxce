@@ -1,6 +1,7 @@
 # 💻 Welcome to my Github Profile!
 
-My name is Maurice and I'm a 22 year old developer from Germany 🇩🇪.
+My name is Maurice and I'm a 22 year old developer from Germany 🇩🇪.  
+Looking for some of my work? Check out my Pins and Organizatins! 🙂
 
 ## ⚡ Currently Using
 
@@ -17,5 +18,6 @@ My name is Maurice and I'm a 22 year old developer from Germany 🇩🇪.
 
 [![Discord](./images/discord.svg "Discord")](https://discordapp.com/users/398509167351955456/)
 [![Email](./images/gmail.svg "Email")](mailto:maurice@schorn.md)
+
 
 
